@@ -1,2 +1,2 @@
 # Linux_learning_note
-Some problems when using Linex OS
+Some problems when using Linux OS
